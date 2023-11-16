@@ -1,18 +1,16 @@
 ### Hi there 👋 I'm Shu Xie.
 
 
-I'm a biologist,
-<!--
-**xieshu95/xieshu95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a biologist, and currently a PhD student at University of Groningen.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: macroevolutionary modelling and data analysis.
+- 🌱 I’m currently learning: machine learning and Python.
+- 👯 I’m looking to collaborate on: research on modelling and parameter inference in macroevolutionary models.
+- 📫 How to reach me: s.xie@rug.nl or xieshu95@gmail.com
+- 😄 Pronouns: she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+
+* [University of Groningen page](https://www.rug.nl/staff/s.xie/)
+* [Orcid](https://orcid.org/my-orcid?orcid=0000-0001-9594-946X)
+* [ResearchGate](https://www.researchgate.net/profile/Shu-Xie-5)
