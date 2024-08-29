@@ -11,6 +11,6 @@ I'm an ecologist, and recently completed my PhD at the University of Groningen.
 
 ### Links
 
-* [University of Groningen page](https://www.rug.nl/staff/s.xie/)
+* [University of Groningen page]([https://research.rug.nl/en/persons/shu-xie])
 * [Orcid](https://orcid.org/my-orcid?orcid=0000-0001-9594-946X)
 * [ResearchGate](https://www.researchgate.net/profile/Shu-Xie-5)
