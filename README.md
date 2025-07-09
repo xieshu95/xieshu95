@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Shu Xie.
 
 
-I'm an ecologist, and completed my PhD at the University of Groningen. I'm currently a postdoc at the Peking university.
+I'm an ecologist, and completed my PhD at the University of Groningen. I'm currently a postdoctoral fellow at Peking University.
 
 - 🔭 I’m currently working on: Evolutionary food web models. 
 - 🌱 I’m currently learning: machine learning.
